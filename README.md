@@ -1,4 +1,4 @@
-# React Shortcuts
+# React Shortcuts - with React 18 support
 
 React Keyboard shortcuts using React's synthetic events.
 
@@ -7,10 +7,10 @@ React Keyboard shortcuts using React's synthetic events.
 Install `react-shortcut-manager`
 
 ```bash
-npm i react-shortcut-manager
-OR
-yarn add react-shortcut-manager
+npm i @kovarjan/react-shortcut-manager
 ```
+
+https://www.npmjs.com/package/@kovarjan/react-shortcut-manager
 
 ## Define shortcuts
 
