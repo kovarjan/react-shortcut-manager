@@ -3,3 +3,4 @@ lib
 es
 examples/build
 coverage
+package-lock.json

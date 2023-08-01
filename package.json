@@ -1,6 +1,6 @@
 {
-  "name": "react-shortcut-manager",
-  "version": "2.0.2",
+  "name": "@kovarjan/react-shortcut-manager",
+  "version": "2.0.3",
   "description": "Keyboard shortcuts for React",
   "keywords": [
     "react",
@@ -64,6 +64,18 @@
     "invariant": "^2.2.4"
   },
   "peerDependencies": {
-    "react": "^16.4.0"
-  }
+    "react": "^18.0.0"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kovarjan/react-shortcut-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kovarjan/react-shortcut-manager/issues"
+  },
+  "homepage": "https://github.com/kovarjan/react-shortcut-manager#readme"
 }
