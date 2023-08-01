@@ -25,6 +25,8 @@ export default function useGlobalShortcuts(
       handler: handler,
       ...options
     };
-    return () => delete globalFunctions[id.current];
+    return () => {
+      delete globalFunctions[id.current]
+    };
   }, [name, handler, options]);
 }
